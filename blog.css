@@ -2,51 +2,41 @@ body {
     background-color: #a58181;
     margin: 0px;
 }
-
 h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 h2,
 h4 {
     margin: 0px;
 }
-
 .head,
 .cds {
     background-color: #f5ededf1;
 }
-
 .head {
     position: sticky;
     top: 0px;
 }
-
 .cont {
     display: flex;
 }
-
 .left {
     padding: 5px;
     float: left;
     width: calc(70% - 10px);
 }
-
 .right {
     padding: 5px;
     float: right;
     width: calc(30% - 10px);
 }
-
 .cds {
     padding: 10px;
     margin: 5px 0px;
 }
-
 img {
     width: 100%;
 }
-
 .right-sticky {
     position: sticky;
     top: 41px;
